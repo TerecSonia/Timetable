@@ -1,0 +1,7 @@
+Iuliana Bocicor|1|lecturer
+Crivei Septimiu|2|professor
+Enescu Alina|3|doctorand
+Surdu Sabina|4|lecturer
+Emilia Pop|5|doctorand
+aaa|9|aaa
+aaa|10|aaa

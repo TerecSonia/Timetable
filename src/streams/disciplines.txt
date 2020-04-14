@@ -1,0 +1,7 @@
+OOP|2|5
+Criptography|4|4
+DataBases|1|6
+MAP|7|6
+Algebra|8|5
+aaa|9|9
+aaa|10|10

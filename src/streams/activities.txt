@@ -1,0 +1,10 @@
+course|12|12
+lab|1|4
+seminar|2|4
+seminar|8|2
+seminar|1|5
+aaa|9|9
+aaa|10|10
+aa|9|9
+9|9|9
+seminar|9|9
